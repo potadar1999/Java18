@@ -1,0 +1,6 @@
+What do you mean by Multithreading? Why is it important?
+Multithreading is the ability of a program or an operating system to enable more than one user at a time without 
+requiring multiple copies of the program running on the computer.
+Multithreading allows the execution of multiple parts of a program at the same time. These parts are known as threads 
+and are lightweight processes available within the process.So multithreading leads to maximum utilization of the 
+CPU by multitasking.
